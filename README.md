@@ -30,6 +30,4 @@
 
 ### Follow me in socials:
 
-[![Facebook](https://img.shields.io/badge/-Facebook-000000?logo=facebook)](https://www.facebook.com/o.boiaryntsev)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?logo=instagram)](https://www.instagram.com/o.boiaryntsev/)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?logo=telegram)](https://t.me/ringil_endimion)
