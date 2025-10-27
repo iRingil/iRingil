@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Ringil
-<a href="https://github.com/rin-gil">
-    <img align="right" alt="profile views" src="https://komarev.com/ghpvc/?username=rin-gil&color=blue">
+<a href="https://github.com/iRingil">
+    <img align="right" alt="profile views" src="https://komarev.com/ghpvc/?username=iRingil&color=blue">
 </a>
 
 
 ## I am a python developer
-<a href="https://github.com/rin-gil">
+<a href="https://github.com/iRingil">
     <img align="right" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRingil&layout=compact&theme=tokyonight&hide_border=true">
 </a>
 
@@ -30,4 +30,4 @@
 
 ### Follow me in socials:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?logo=telegram)](https://t.me/ringil_endimion)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?logo=telegram)](https://t.me/i_Ringil)
